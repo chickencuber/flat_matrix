@@ -1,5 +1,5 @@
 pub struct FlatMatrix<T: Clone> {
-    items: Vec<T>,
+    pub items: Vec<T>,
     pub width: usize,
     pub height: usize,
 }
