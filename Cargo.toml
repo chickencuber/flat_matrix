@@ -4,7 +4,7 @@ version = "0.1.1"
 edition = "2021"
 license = "MIT"
 authors = ["chickencuber"]
-repository = "https://github.com/chickencuber/easy_menu"
+repository = "https://github.com/chickencuber/flat_matrix"
 description = "a crate that adds flat matrices"
 
 
